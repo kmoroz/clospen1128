@@ -9,7 +9,9 @@ About me!
 - 👯 I’m looking to collaborate on projects that will provide more experience with Github and coding.
 - ⚡ Fun fact: I like the little guy that lives in a pineapple under the sea
 
-<div align='center'>
-![Alt Text](Spongebob.jpg)
-</div>
+  <div align='center'>
+    
+  ![Alt Text](Spongebob.jpg)
+  
+  </div>
 </div>
